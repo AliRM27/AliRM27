@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-I'm a passionate Frontend Developer with a journey that began when I was just 12 years old. My love for programming sparked with HTML, and it didn’t take long before I dove into other technologies, exploring the endless possibilities of the web. Over the years, I've honed my skills in creating dynamic, interactive, and user-friendly web applications. React is my favorite library for building interfaces that work seamlessly, and I enjoy turning creative ideas into pixel-perfect, responsive designs.
+I'm a passionate Software Developer with a journey that began when I was just 12 years old. My love for programming sparked with HTML, and it didn’t take long before I dove into other technologies, exploring the endless possibilities of the web. Over the years, I've honed my skills in creating dynamic, interactive, and user-friendly web applications. React is my favorite library for building interfaces that work seamlessly, and I enjoy turning creative ideas into pixel-perfect, responsive designs.
 
 * 🌍  I'm based in Germany, Düsseldorf
 * 🖥️  See my portfolio at [My Portfolio](http://portfolio-alim27.netlify.app)
