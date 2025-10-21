@@ -9,7 +9,6 @@ I'm a passionate Software Developer with a journey that began when I was just 12
 * 🌍  I'm based in Germany, Düsseldorf
 * 🖥️  See my portfolio at [My Portfolio](http://portfolio-alim27.netlify.app)
 * ✉️  You can contact me at [amammadov097@gmail.com](mailto:amammadov097@gmail.com)
-* 🧠  I'm learning React Native (Expo)
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I love Ghost of Tsushima
 
